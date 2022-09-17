@@ -1,0 +1,4 @@
+#! /usr/bin/bash
+exe="depenses_coloc.ts"
+deno run --allow-read $exe $@
+
